@@ -1,5 +1,5 @@
 # Llm_Qdrant
-<h1>It used api of Open AI + Qdrant cloud storage</h1>
+<h1>It uses an api of Open AI + Qdrant cloud storage</h1>
 <h2>Get api key from openAI, Qdrant link, qdrant collection name user choice, qdrant Api</h2>
 <p>
   clone the project.<br>
